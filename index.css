@@ -18,7 +18,11 @@ header{
     color:aquamarine
       
 }
+
 #resume{
-    height: 400px;
-    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1000px;
+    width: 850px;
 }
